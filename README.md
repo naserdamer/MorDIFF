@@ -9,7 +9,7 @@ Official repository of the paper MorDIFF: Recognition Vulnerability and Attack D
 
 Paper available under this [LINK](https://arxiv.org/abs/2302.01843)
 
-The benchmark SYN-MAD 2022 data is available under: [REPO+DATA](https://github.com/marcohuber/SYN-MAD-2022) + PAPER(https://ieeexplore.ieee.org/document/10007950)
+The benchmark SYN-MAD 2022 data is available under: [REPO+DATA](https://github.com/marcohuber/SYN-MAD-2022) + [PAPER](https://ieeexplore.ieee.org/document/10007950)
 
 TO DO: add morphing script
 

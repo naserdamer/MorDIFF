@@ -71,3 +71,10 @@ and the base benchmark, the SYN-MAD 2022 [paper] (https://ieeexplore.ieee.org/do
 If you use the provided morphing script with the pre-trained model provided by Preechakul et al. ([paper](https://arxiv.org/abs/2111.15640)) please additionally follow their citation requierments ([REPO](https://github.com/phizaz/diffae)).
 
 
+##
+
+**License:**
+
+The dataset, the implementation, or trained models, use is restricted to research purpuses. The use of the dataset or the implementation/trained models for product development or product competetions (incl. NIST FRVT MORPH) is not allowed.
+This project is licensed under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Copyright (c) 2020 Fraunhofer Institute for Computer Graphics Research IGD Darmstadt.
+

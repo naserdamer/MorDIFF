@@ -34,7 +34,7 @@ If you use MorDIFF datas, please cite the following [paper](https://arxiv.org/ab
 }
 ```
 
-and the base benchmark, the SYN-MAD 2022 [paper] (https://ieeexplore.ieee.org/document/10007950):
+and the base benchmark, the SYN-MAD 2022 [paper](https://ieeexplore.ieee.org/document/10007950):
 
 ```
 @inproceedings{SYNMAD2022,

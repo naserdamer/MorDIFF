@@ -24,9 +24,10 @@ If you use MorDIFF datas, please cite the following [paper](https://arxiv.org/ab
 @misc{MorDIFF,
   doi = {10.48550/ARXIV.2302.01843},
   url = {https://arxiv.org/abs/2302.01843},
-  author = {Damer, Naser and Fang, Meiling and Siebke, Patrick and Kolf, Jan Niklas and Huber, Marco and Boutros, Fadi},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {MorDIFF: Recognition Vulnerability and Attack Detectability of Face Morphing Attacks Created by Diffusion Autoencoders},
+  author = {Damer, Naser and Fang, Meiling and Siebke, Patrick and Kolf, 
+  Jan Niklas and Huber, Marco and Boutros, Fadi},
+  title = {MorDIFF: Recognition Vulnerability and Attack Detectability of Face 
+  Morphing Attacks Created by Diffusion Autoencoders},
   publisher = {arXiv},
   year = {2023},
   copyright = {arXiv.org perpetual, non-exclusive license}

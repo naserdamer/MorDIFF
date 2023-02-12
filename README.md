@@ -13,8 +13,6 @@ The benchmark SYN-MAD 2022 data is available under: [REPO+DATA](https://github.c
 
 TO DO: add morphing script
 
-TO DO: link to data
-
 The MorDIFF data can be downloaded from this [LINK](https://drive.google.com/file/d/1t8Jw1FoBDOXvMxDJ4uJZeffsCXcV8mMe/view?usp=share_link) (please share your name, affiliation, and official email in the request form).
 
 

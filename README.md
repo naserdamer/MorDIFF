@@ -15,6 +15,8 @@ TO DO: add morphing script
 
 TO DO: link to data
 
+The MorDIFF data can be downloaded from this [LINK](https://drive.google.com/file/d/1t8Jw1FoBDOXvMxDJ4uJZeffsCXcV8mMe/view?usp=share_link) (please share your name, affiliation, and official email in the request form).
+
 
 **Citation:**
 
@@ -70,6 +72,8 @@ and the base benchmark, the SYN-MAD 2022 [paper](https://ieeexplore.ieee.org/doc
 ```
 
 If you use the provided morphing script with the pre-trained model provided by Preechakul et al. ([paper](https://arxiv.org/abs/2111.15640)) please additionally follow their citation requierments ([REPO](https://github.com/phizaz/diffae)).
+
+The MorDIFF data, such as the SYN-MAD 2022 benchmark, is based on the Face Research Lab London dataset (FRLL). Please follow all the requierments of the [FRLL dataset](https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666).
 
 
 ##

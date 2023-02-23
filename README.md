@@ -1,5 +1,5 @@
 # MorDIFF
-Official repository of the paper MorDIFF: Recognition Vulnerability and Attack Detectability of Face Morphing Attacks Created by Diffusion Autoencoders
+Official repository of the paper **MorDIFF: Recognition Vulnerability and Attack Detectability of Face Morphing Attacks Created by Diffusion Autoencoders**
 
 
 ![grafik](https://user-images.githubusercontent.com/85616215/217528980-9bbe613e-baa9-4624-8163-9666c972c1c2.png)

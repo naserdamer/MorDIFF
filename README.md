@@ -1,6 +1,7 @@
 # MorDIFF
 Official repository of the paper **MorDIFF: Recognition Vulnerability and Attack Detectability of Face Morphing Attacks Created by Diffusion Autoencoders**
 
+[*** Accepted at the 11th International Workshop on Biometrics and Forensics 2023 (IWBF 2023) ***](https://warwick.ac.uk/fac/sci/dcs/people/victor_sanchez/iwbf2023/)
 
 ![grafik](https://user-images.githubusercontent.com/85616215/217528980-9bbe613e-baa9-4624-8163-9666c972c1c2.png)
 
